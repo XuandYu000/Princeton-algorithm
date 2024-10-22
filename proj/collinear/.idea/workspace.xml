@@ -95,12 +95,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/xuzhiyu/Desktop/course/Princeton-algorithm/proj/collinear",
+    "last_opened_file_path": "/home/xuzhiyu/Desktop/course/Princeton-algorithm/proj/8puzzle",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -146,7 +150,11 @@
       <option name="presentableId" value="Default" />
       <updated>1729333476074</updated>
       <workItem from="1729333477117" duration="6696000" />
-      <workItem from="1729340198373" duration="7401000" />
+      <workItem from="1729340198373" duration="8622000" />
+      <workItem from="1729518548104" duration="74000" />
+      <workItem from="1729518903285" duration="280000" />
+      <workItem from="1729519267223" duration="21000" />
+      <workItem from="1729519295041" duration="7000" />
     </task>
     <servers />
   </component>
@@ -189,6 +197,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -202,5 +221,9 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
