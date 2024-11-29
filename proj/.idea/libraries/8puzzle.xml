@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="8puzzle">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/8puzzle/8puzzle.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

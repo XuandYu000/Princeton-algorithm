@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collinear/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../collinear/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +94,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/xuzhiyu/Desktop/course/Princeton-algorithm/proj/8puzzle",
+    "last_opened_file_path": "/home/xuzhiyu/Desktop/course/Princeton-algorithm/proj",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -144,7 +142,8 @@
       <option name="presentableId" value="Default" />
       <updated>1729519302373</updated>
       <workItem from="1729519303400" duration="5000000" />
-      <workItem from="1729565508562" duration="3150000" />
+      <workItem from="1729565508562" duration="3606000" />
+      <workItem from="1729773623776" duration="8000" />
     </task>
     <servers />
   </component>
