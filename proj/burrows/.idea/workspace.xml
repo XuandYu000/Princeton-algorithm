@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boggle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../boggle/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
     <option name="myRunOnSave" value="true" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
+  &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectFrameBounds">
     <option name="x" value="106" />
@@ -87,50 +87,36 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BoggleBoard.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BoggleGame.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BoggleSolver.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/xuzhiyu/Desktop/course/Princeton-algorithm/proj/burrows&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CircularSuffixArray.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/xuzhiyu/Desktop/course/MIT6.031-software-construction/ps/ps0",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.BoggleGame">
-    <configuration name="BoggleBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BoggleBoard" />
+}]]></component>
+  <component name="RunManager">
+    <configuration name="CircularSuffixArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CircularSuffixArray" />
       <module name="Algorithms, Part II" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BoggleGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BoggleGame" />
-      <module name="Algorithms, Part II" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BoggleSolver" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BoggleSolver" />
-      <module name="Algorithms, Part II" />
-      <option name="PROGRAM_PARAMETERS" value="dictionary-algs4.txt board-q.txt" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BoggleGame" />
-        <item itemvalue="Application.BoggleBoard" />
+        <item itemvalue="Application.CircularSuffixArray" />
       </list>
     </recent_temporary>
   </component>
@@ -145,14 +131,20 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <created>1732850664274</created>
+      <created>1733060007727</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1732850664274</updated>
-      <workItem from="1732850665279" duration="24321000" />
-      <workItem from="1732886659344" duration="139000" />
-      <workItem from="1733059971407" duration="17000" />
-      <workItem from="1733060002085" duration="6000" />
+      <updated>1733060007727</updated>
+      <workItem from="1733060008837" duration="6235000" />
+      <workItem from="1733066548538" duration="6112000" />
+      <workItem from="1733118712350" duration="1636000" />
+      <workItem from="1733246875098" duration="19000" />
+      <workItem from="1733247150905" duration="152000" />
+      <workItem from="1733247313694" duration="32000" />
+      <workItem from="1733247372099" duration="332000" />
+      <workItem from="1733455824267" duration="30000" />
+      <workItem from="1733465050248" duration="6000" />
+      <workItem from="1733726778090" duration="23000" />
     </task>
     <servers />
   </component>
